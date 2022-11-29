@@ -1,1 +1,27 @@
+# PCSG
+Minutes of First Meeting on 29th November
+<br>Venue: 
+<br>Present: 
+<br>Apologies: 
+<br>Meeting Started: 
 
+---
+
+## Review Progress
+N/A
+### Categories
+N/A
+
+## Objectives for Next Meeting
+
+**Next Friday (7th Oct)** is due date for most functions.
++ Categorisation - should be done by next Friday, user manual for mainbook, possible categories, documentation, optimising.
++ Website Scraping - Add menu availability, improve email address
++ Webscraping - Work on user manaul.
++ Need to check unit testing with Khalin
+
+**Next Monday (3rd Oct)** is "In between" meeting.
+<br>**Next Friday (7th Oct)** is "Proper" meeting.
+___
+
+Meeting Closed 10:15AM
