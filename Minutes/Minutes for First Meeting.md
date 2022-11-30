@@ -33,7 +33,7 @@ Which day would be the best for everyone?
 + Q&A questions for mentor meeting. The meeting will be before or after the Christmas.
 + Creative idea for project subject
 
-<br> **10th December** is next meeting
+<br> **10th December** is next meeting.
 ___
 
 Meeting Closed 21:00
