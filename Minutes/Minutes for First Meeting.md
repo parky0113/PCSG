@@ -30,7 +30,7 @@ N/A
 Which day would be the best for everyone?
 
 ## Objectives for Next Meeting
-+ Q&A questions for mentor meeting. The meeting will be before or next Christmas.
++ Q&A questions for mentor meeting. The meeting will be before or after the Christmas.
 + Creative idea for project subject
 
 <br> **10th December** is next meeting
