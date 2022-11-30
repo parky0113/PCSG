@@ -1,34 +1,39 @@
 # PCSG
 Minutes of First Meeting on 29th November
 <br>Venue: 
-<br>Present: 
-<br>Apologies: 
-<br>Meeting Started: 
+<br>Present: 성현, 재성, 진우, 효정 
+<br>Apologies: 미현
+<br>Meeting Started: 18:00 
 
 ---
 
 ## Review Progress
 N/A
-### Categories
-N/A
 
-## Projects
-<br> Quokka
-<br> Book clip
-<br> 
+### Dinner
+@ Viet Hoa
 
+--- 
 
+## What We Discussed
+### Project Subjects
++ Quokka track map + face matching w/ Quokka
++ Bookmark + notification app
++ School Interaction Map
++ Server Managing Web
+
+### Working Collaborative
++ Communication >> Teams, Discord, etc
++ Project Tracking >> Jira, Trello, etc
+
+### Regular Team meeting
+Which day would be the best for everyone?
 
 ## Objectives for Next Meeting
++ Q&A questions for mentor meeting. The meeting will be before or next Christmas.
++ Creative idea for project subject
 
-**Next Friday (7th Oct)** is due date for most functions.
-+ Categorisation - should be done by next Friday, user manual for mainbook, possible categories, documentation, optimising.
-+ Website Scraping - Add menu availability, improve email address
-+ Webscraping - Work on user manaul.
-+ Need to check unit testing with Khalin
-
-**Next Monday (3rd Oct)** is "In between" meeting.
-<br>**Next Friday (7th Oct)** is "Proper" meeting.
+<br> **10th December** is next meeting
 ___
 
-Meeting Closed 10:15AM
+Meeting Closed 21:00
