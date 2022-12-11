@@ -7,15 +7,15 @@
 
 ## Tasks
 ### Pre-Meeting	
-•	Ideas for the project
-•	Questions for the mentor
-•	Get used to Jira & Teams
++ Ideas for the project
++ Questions for the mentor
++ Get used to Jira & Teams
 
 ### Discussion	
-•	Choosing a project topic
-•	Listing questions for Q&A
++ Choosing a project topic
++	Listing questions for Q&A
 
 ### Objectives for Next Meeting
-•	User stories
-•	Build a Timeline
++ User stories
++ Build a Timeline
 
