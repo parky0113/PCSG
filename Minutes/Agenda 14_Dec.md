@@ -17,4 +17,4 @@
 
 ### Objectives for Next Meeting
 + User stories
-+ Build a Timeline
++ Building a Timeline
