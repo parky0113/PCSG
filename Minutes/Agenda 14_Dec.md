@@ -15,6 +15,8 @@ Objectives for Next Meeting	•	User stories
 
 | Tasks | Sub-tasks |
 |---|---------------|
-|   |   |
+| Pre-meeting | Ideas for the project |
+|                Questions for the mentor |
+|                Get used to Jira & Teams |
 |   |   |
 |   |   |
