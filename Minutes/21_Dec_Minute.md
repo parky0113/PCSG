@@ -15,7 +15,7 @@ Checking UX/UI in Figma
 ### MVP
 + Face Similarity + (sns share function) = 성현, 진우
 + Map + (How to record Geo-info, Google API) = 진석, 재성
-+ Cloud + (Packaging + Distribution, UX/UI) = 효정, 미현
++ Cloud/DB + (Packaging + Distribution, UX/UI) = 효정, 미현
 
 ### Language
 Once scope of work and Skills audits are decided, we can choose from 'React Native', 'Java', 'Kotlin' and 'Swift'.
